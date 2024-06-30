@@ -1,0 +1,19 @@
+{
+  "OrderID": 12312,
+  "Address": "Juramento 2020",
+  "Status": "ready",
+  "Articles": [
+    {
+      "Name": "carne",
+      "price": "5000",
+      "Quantity": 2,
+      "Dangerous": false
+    },
+    {
+      "Name": "Acid",
+      "price": "5500",
+      "Quantity": 2,
+      "Dangerous": true
+    }
+  ]
+}
